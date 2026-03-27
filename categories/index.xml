@@ -6,7 +6,16 @@
     <description>Recent content in Enigmatic Egos: All Categories in One Place on EnigmaticEgos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 16:54:08 -0300</lastBuildDate><atom:link href="https://enigmaticegos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Mar 2026 07:27:25 -0300</lastBuildDate><atom:link href="https://enigmaticegos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enigmatic Egos: Sociopathy Category</title>
+      <link>https://enigmaticegos.com/categories/sociopathy/</link>
+      <pubDate>Fri, 27 Mar 2026 07:27:25 -0300</pubDate>
+      
+      <guid>https://enigmaticegos.com/categories/sociopathy/</guid>
+      <description>The Sociopathy category examines a pattern of antisocial behavior that has long fascinated psychologists, criminologists, and anyone who has tried to understand people who consistently ignore social rules.</description>
+    </item>
+    
     <item>
       <title>Enigmatic Egos: Stoicism Category</title>
       <link>https://enigmaticegos.com/categories/stoicism/</link>
@@ -50,15 +59,6 @@
       
       <guid>https://enigmaticegos.com/categories/relationships/</guid>
       <description>The Relationships category explores the many ways people connect with one another, from romantic partnerships and dating to friendships, family dynamics, and the complicated emotional negotiations that quietly shape everyday life.</description>
-    </item>
-    
-    <item>
-      <title>Enigmatic Egos: Sociopathy Category</title>
-      <link>https://enigmaticegos.com/categories/sociopathy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enigmaticegos.com/categories/sociopathy/</guid>
-      <description>The Sociopathy category examines a pattern of antisocial behavior that has long fascinated psychologists, criminologists, and anyone who has tried to understand people who consistently ignore social rules.</description>
     </item>
     
   </channel>
